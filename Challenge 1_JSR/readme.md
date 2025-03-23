@@ -42,4 +42,4 @@ ROC Curve: Evaluate model performance.
 
 Confusion Matrix: Analyze prediction accuracy.
 
-Metrics in MLflow: Compare different experiments.
+Metrics in MLflow: Compare different experiments

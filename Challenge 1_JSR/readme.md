@@ -38,8 +38,8 @@ Run each cell of the Jupyter Notebook step by step.
 Access MLflow to visualize executed experiments:mlflow ui
 
 # 5.Interpreting Results
-ROC Curve: Evaluate model performance.
+*ROC Curve: Evaluate model performance.
 
-Confusion Matrix: Analyze prediction accuracy.
+* Confusion Matrix: Analyze prediction accuracy.
 
-Metrics in MLflow: Compare different experiments
+* Metrics in MLflow: Compare different experiments

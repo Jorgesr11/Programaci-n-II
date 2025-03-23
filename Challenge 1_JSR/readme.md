@@ -5,15 +5,15 @@ The dataset used is the "Breast Cancer Wisconsin" (diagnostic dataset), which co
 
 ## 1.2 Preprocessing
 
-Removing unnecessary columns (id, Unnamed: 32).
+* Removing unnecessary columns (id, Unnamed: 32).
 
-Handling missing values (df.dropna(inplace=True)).
+* Handling missing values (df.dropna(inplace=True)).
 
-Encoding the target variable (LabelEncoder).
+* Encoding the target variable (LabelEncoder).
 
-Data normalization (StandardScaler).
+* Data normalization (StandardScaler).
 
-Splitting into training and testing sets (train_test_split).
+* Splitting into training and testing sets (train_test_split).
 
 # 2. Model Construction: Model Explanation
 

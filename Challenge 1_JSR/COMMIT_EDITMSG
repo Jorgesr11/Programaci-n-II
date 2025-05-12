@@ -3,9 +3,12 @@
 # with '#' will be ignored, and an empty message aborts the commit.
 #
 # On branch main
-# Your branch is ahead of 'origin/main' by 3 commits.
+# Your branch is ahead of 'origin/main' by 2 commits.
 #   (use "git push" to publish your local commits)
 #
 # Changes to be committed:
-#	modified:   Challenge 1_JSR/readme.md
+
+modified:   Challenge 1_JSR/readme.md
 #
+Comit readme file
+readme file 

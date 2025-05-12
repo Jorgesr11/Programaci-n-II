@@ -175,28 +175,6 @@ with mlflow.start_run():
     
     print("Pipeline MLOps completado")
 
-# %% [markdown]
-# ## Instrucciones de Ejecución
-# 1. Asegurar que el archivo esté en la ruta especificada
-# 2. Iniciar MLflow:
-#    ```bash
-#    mlflow ui --port 5000
-#    ```
-# 3. Ejecutar el notebook celda por celda
-# 4. Los resultados estarán disponibles en:
-#    - MLflow UI: `http://localhost:5000`
-#    - Archivos generados en el directorio actual
 
-# %% [markdown]
-# **Mejoras clave:**
-# - Verificación de existencia del archivo
-# - Validación de columnas requeridas
-# - Manejo de errores mejorado
-# - Ruta raw para compatibilidad con Windows
-# - Eliminación de dependencias de Kaggle
 
-# %% [markdown]
-# **Notas importantes:**
-# 1. Asegúrate de tener los permisos de lectura en la ruta del archivo
-# 2. Verifica que la columna 'rating' contenga valores numéricos
-# 3. El tiempo de ejecución variará según el tamaño del dataset
+
